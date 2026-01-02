@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "video2text",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "cdc091e2-5a5c-4089-926e-7d9518c855a3",
+			"database_name": "video2text-database"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
